@@ -1,5 +1,4 @@
-# fdf
-by lcharvol
+# Fdf
 
 subject: https://github.com/Lcharvol/fdf/files/1088605/pdf_fdf.pdf
 

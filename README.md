@@ -7,6 +7,7 @@ terrain en relief
 
 - [Subject](#subject)
 - [Usage](#usage)
+- [ShortCuts](#shortcuts)
 - [Preview](#preview)
 
 # Subject
@@ -21,6 +22,20 @@ make
 ./fdf maps/mars.fdf
 
 ```
+# Shortcuts
+
+```console
+
+zoom: + -
+move: arrows
+reset: delete
+change color panel: 9, 8, 7, 6, 5 and 4
+change opacity: 0 and .
+change height: mouse wheel
+inc/dec colors: left mouse click / right mouse click
+
+```
+
 # Preview
 
 <img src="https://user-images.githubusercontent.com/23408500/47170964-cea5bc00-d307-11e8-8f90-68ee43d6721a.png"></img>

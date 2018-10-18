@@ -1,9 +1,32 @@
 # Fdf
 
-subject: https://github.com/Lcharvol/fdf/files/1088605/pdf_fdf.pdf
+Ce projet consiste à créer graphiquement la représentation schématique d’un
+terrain en relief
 
+## Table des matières
 
-<a target="_blank" href="http://img11.hostingpics.net/pics/827268ScreenShot20170224at43524PM.png" title="Hebergeur d'image"><img src="http://img11.hostingpics.net/pics/827268ScreenShot20170224at43524PM.png" border="0" alt="Hebergeur d'image" /></a>
-<a target="_blank" href="http://img11.hostingpics.net/pics/176636ScreenShot20170224at43423PM.png" title="Hebergeur d'image"><img src="http://img11.hostingpics.net/pics/176636ScreenShot20170224at43423PM.png" border="0" alt="Hebergeur d'image" /></a>
-<a target="_blank" href="http://img11.hostingpics.net/pics/700135ScreenShot20170224at43202PM.png" title="Hebergeur d'image"><img src="http://img11.hostingpics.net/pics/700135ScreenShot20170224at43202PM.png" border="0" alt="Hebergeur d'image" /></a>
-<a target="_blank" href="http://img11.hostingpics.net/pics/571321ScreenShot20170224at43318PM.png" title="Hebergeur d'image"><img src="http://img11.hostingpics.net/pics/571321ScreenShot20170224at43318PM.png" border="0" alt="Hebergeur d'image" /></a>
+- [Subject](#subject)
+- [Usage](#usage)
+- [Preview](#preview)
+
+# Subject
+
+  https://github.com/Lcharvol/fdf/files/1088605/pdf_fdf.pdf
+
+# Usage
+
+```console
+
+make
+./fdf maps/mars.fdf
+
+```
+# Preview
+
+<img src="https://user-images.githubusercontent.com/23408500/47170964-cea5bc00-d307-11e8-8f90-68ee43d6721a.png"></img>
+
+<img src="https://user-images.githubusercontent.com/23408500/47170986-dbc2ab00-d307-11e8-9afd-85a9884944e3.png"></img>
+
+<img src="https://user-images.githubusercontent.com/23408500/47171008-e54c1300-d307-11e8-87d6-7b46e5375da4.png"></img>
+
+<img src="https://user-images.githubusercontent.com/23408500/47171033-eed57b00-d307-11e8-85cf-5f49c5b04bbc.png"></img>
